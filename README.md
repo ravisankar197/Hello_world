@@ -2,4 +2,6 @@
 just another repository
 
 
-now.....I had changes in master branch 
+now.....new branch created
+
+  doing changes to new branch
